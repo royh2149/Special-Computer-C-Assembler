@@ -1,0 +1,5 @@
+Error in line 8: a symbol cannot be both .entry and .extern
+Error in line 15: unrecognized extra text!
+Error in line 4: Relative addressing cannot be applied on an external symbol!
+Error in line 12: Relative addressing cannot be applied on a .data symbol!
+Error compiling file: scan2errs.as

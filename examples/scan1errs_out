@@ -1,0 +1,24 @@
+Error in line 6: no comma between arguments!
+Error in line 9: Illegal symbol name! r6
+A legal symbol is at most 32 chars length, begins with a letter, not a command nor register or keyword, and contains letters and digits only.
+Error in line 12: missing argument!
+Error in line 15: invalid addressing method!
+Error in line 18: invalid addressing method!
+Error in line 21: missing argument!
+Error in line 24: missing argument!
+Error in line 27: .data cannot end with a comma!
+Error in line 30: Illegal symbol name! ABCDEEFDHIJKLMNOPQRSTUVWXYZAAAAAAAAAAAAA
+A legal symbol is at most 32 chars length, begins with a letter, not a command nor register or keyword, and contains letters and digits only.
+Error in line 33: no space after label name!
+Error in line 36: illegal argument! #48.76
+Error in line 39: illegal argument! #
+Error in line 42: an empty label was defined! A
+Error in line: 46: multiple declarations of external symbol EXTSYMBOL
+Error in line 50: Redefining a symbol DOUBLEDEF
+Error in line 53: empty .data is declared!
+Error in line 54: empty .string is declared!
+Error in line 57: Illegal scalar in .data, or no comma between arguments! 5 6
+Error in line 60: unrecognized extra text!
+Error in line 61: unrecognized extra text!
+Error in line 62: unrecognized extra text!
+Error compiling file: scan1errs.as
