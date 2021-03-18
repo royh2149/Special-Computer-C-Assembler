@@ -1,0 +1,1 @@
+Those are examples of input .as files and their output - files in case of success, and comments in case of errors (as explained in the instructions).
